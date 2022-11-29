@@ -1,0 +1,12 @@
+numpy
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
+Ipython
+seaborn
+scikit-learn==0.24.1
+scipy==1.6.2
+jdc
+tqdm
+torch==1.7.1
+pandas
