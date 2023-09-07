@@ -8,5 +8,5 @@ scikit-learn
 scipy
 jdc
 tqdm
-torch==1.7.1
+torch
 pandas
